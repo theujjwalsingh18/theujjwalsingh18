@@ -1,4 +1,4 @@
-## Hy 👋 Ujjwal Singh Here 
+## Hello 👋 Ujjwal Singh Here 
 [<img src="https://github.com/theujjwalsingh18/theujjwalsingh18/blob/master/resources/hr.gif"/>](https://github.com/theujjwalsingh18)
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
