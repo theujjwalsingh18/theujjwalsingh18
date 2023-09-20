@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/ujjwal-kumar-singh-2174a0272)
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=red)](https://github.com/theujjwalsingh18)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red)](https://t.me/theujjwalsinghh)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&color=2CA5E0)](https://t.me/theujjwalsinghh)
 
 
 ### Ujjwal Singh Github stats 
@@ -18,10 +18,11 @@
         width="52%"
         src="https://github-readme-stats.vercel.app/api?username=theujjwalsingh18&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
-    <img
+  /*  <img
         width="49%"
         src="https://github-readme-streak-stats.herokuapp.com?user=theujjwalsingh18&theme=tokyonight"
     />
+    */
 </p>
 
 <h3>
