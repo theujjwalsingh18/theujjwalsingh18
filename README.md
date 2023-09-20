@@ -6,8 +6,8 @@
 </p>
 
 ## Where to find me
-.[![LinkedIn]
-.(https://img.shields.io/badge/-LinkedIn-181717?style=for-the-badge&logo=LinkedIn&logoColor=blue).]
+[![LinkedIn]
+.(https://img.shields.io/badge/-LinkedIn-181717?style=for-the-badge&logo=LinkedIn&logoColor=blue)]
 .(https://www.linkedin.com/in/ujjwal-kumar-singh-2174a0272).
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=red)](https://github.com/theujjwalsingh18)
