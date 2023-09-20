@@ -2,7 +2,7 @@
 [<img src="https://github.com/theujjwalsingh18/theujjwalsingh18/blob/master/resources/hr.gif"/>](https://github.com/theujjwalsingh18)
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/theujjwalsingh18/count.svg" />
+    <img align="middle" src="https://profile-counter.glitch.me/theujjwalsingh18/count.svg" />
 </p>
 
 ## Where to find me
