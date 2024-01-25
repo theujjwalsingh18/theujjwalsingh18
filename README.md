@@ -20,3 +20,4 @@
         src="https://github-readme-stats.vercel.app/api?username=theujjwalsingh18&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
 </p>
+http://3.7.32.35:8080/studentdata/
