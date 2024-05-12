@@ -21,4 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theujjwalsingh18&show_icons=true&locale=en" alt="theujjwalsingh18" /></p>
 
+![暗色](https://raw.githubusercontent.com/HChenX/HChenX/output/github-contribution-grid-snake-dark.svg)
 
