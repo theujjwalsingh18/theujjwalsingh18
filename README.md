@@ -77,7 +77,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theujjwalsingh18/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/theujjwalsingh18)
-![Insta](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&color=fa10de&link=https%3A%2F%2Fwww.instagram.com%2Ftheujjwalsingh18%2F)
+[![Insta](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&color=fa10de)](https://instagram.com/theujjwalsingh18)
 
 ---
 
