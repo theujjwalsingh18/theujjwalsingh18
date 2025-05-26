@@ -14,18 +14,32 @@
 - 🌱 I’m currently working on:
   - 📄 PDF Q&A Bot using FAISS + Transformers   
 - 💡 Always curious to learn new technologies & solve real-world problems with data!
-- 📫 How to reach me : [Email](theujjwalsingh18@gmail.com)
+- 📫 How to reach me : [Email](mailto:theujjwalsinghh@gmail.com)
 
 ---
 
 ## 🧰 Languages and Tools : 
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GoLang](https://img.shields.io/badge/Go-%23FF6F00.svg?style=for-the-badge&logo=go&color=%23150458)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&color=%20%232e4053%20)
+![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css&color=%20%233498db%20)
+![JS](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&color=%20%238e44ad%20) ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&color=%20%239b59b6%20) ![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi&color=%20%23f39c12%20) ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs&color=blue)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&color=%20%235d6d7e%20)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Notebook](https://img.shields.io/badge/jupyter--notebook-black?style=for-the-badge&logo=jupyter&color=gray)
+![Scikitlearn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikitlearn&color=blue) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Linux](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=linux&color=%20%232e4053%20)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices&color=%20%233498db%20)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&color=%20%2334495e%20)
+![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud)
+
+
+
+
+
 
 ---
 
@@ -63,6 +77,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theujjwalsingh18/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/theujjwalsingh18)
+![Insta](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&color=fa10de&link=https%3A%2F%2Fwww.instagram.com%2Ftheujjwalsingh18%2F)
 
 ---
 
