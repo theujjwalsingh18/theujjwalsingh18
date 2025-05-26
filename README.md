@@ -48,7 +48,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theujjwalsingh18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api?username=theujjwalsingh18&show_icons=true&theme=github_dark" alt="GitHub Stats" /> <br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=theujjwalsingh18&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=theujjwalsingh18&theme=dark&hide_border=false))
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmt5MjB0ZTJsNDJ6NGczYmJuc2wyNHJnaGN1MHhiajJucGhodnA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200" height="200" alt="AI Coding GIF"/>
 
 
@@ -69,7 +69,7 @@
 
 ---
 
-![暗色](https://raw.githubusercontent.com/HChenX/HChenX/output/github-contribution-grid-snake-dark.svg)
+![SankeLadder](https://raw.githubusercontent.com/HChenX/HChenX/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
