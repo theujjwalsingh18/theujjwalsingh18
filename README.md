@@ -54,21 +54,6 @@
 
 ---
 
-## 🏆 GitHub Contribution Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theujjwalsingh18&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
-</p>
-
----
-
-### 💡 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="150"/> <br>
-
----
-
 ![SankeLadder](https://raw.githubusercontent.com/HChenX/HChenX/output/github-contribution-grid-snake-dark.svg)
 
 ---
