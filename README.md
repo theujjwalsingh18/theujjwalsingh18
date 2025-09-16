@@ -75,14 +75,16 @@ console.log(me.toString());
 
 ---
 ## 📊 GitHub Stats  
+
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center;">
     <div style="display: flex; flex-direction: column; gap: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=theujjwalsingh18&show_icons=true&theme=github_dark&hide_border=false" height="160px" />
-      <img src="https://nirzak-streak-stats.vercel.app/?user=theujjwalsingh18&theme=dark&hide_border=false" height="160px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theujjwalsingh18&theme=dark&hide_border=false&layout=compact" style="height: 200px;" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=theujjwalsingh18&theme=dark&hide_border=false" style="height: 200px;" />
     </div>
     <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theujjwalsingh18&theme=dark&hide_border=false&layout=compact" height="340px" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theujjwalsingh18&theme=github_dark" style="height: 420px;" />
     </div>
   </div>
 </div>
+
